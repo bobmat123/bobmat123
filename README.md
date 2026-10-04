@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bobmat123
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning Java ,springboot and devops 
-- 💞️ I’m looking to collaborate on development projects
+- 🌱 - 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me ...
 
 <!---
